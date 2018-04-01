@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81824424613",
+    "firebase_url": "https://navi-1521169493337.firebaseio.com",
+    "project_id": "navi-1521169493337",
+    "storage_bucket": "navi-1521169493337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81824424613:android:c080817d9b76487f",
+        "android_client_info": {
+          "package_name": "com.example.alex1996arm.dbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81824424613-51lutlvme94be85dq5lr6c4if0kova3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSrYjyM6xRU_C7B5jg2GEgZ5iB3WZrzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
